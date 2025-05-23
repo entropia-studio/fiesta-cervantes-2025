@@ -1,0 +1,12 @@
+disabled = false
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "Evento Cervantes 2025"
+
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "cervantes-grupo.jpg"
