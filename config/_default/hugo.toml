@@ -18,6 +18,9 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[params.footer]
+  showPoweredBy = false
+
 [pagination]
   pagerSize = 100
 
