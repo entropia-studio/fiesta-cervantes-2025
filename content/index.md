@@ -50,6 +50,7 @@ La fiesta se celebrará en <a href="https://maps.app.goo.gl/aRfqxqvCuHJ15d41A" t
 - Toalla
 - Licra para el sol (recomendado)
 - Zapatillas o escarpienes de agua
+- Agua para beber
 
 ### ¿Pueden apuntarse más niños o padres a la actividad elegida?
 
