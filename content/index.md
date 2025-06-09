@@ -8,7 +8,7 @@ showDate: false
 showTableOfContents: true
 ---
 
-El sábado 15/06/2025 a las 12h celebraremos la fiesta sorpresa en Aventura Valencia (Estivella). 
+El domingo 15/06/2025 a las 12h celebraremos la fiesta sorpresa en Aventura Valencia (Estivella). 
 
 Durará aproximadamente 2h y cuando acabe, comeremos allí mismo en el restaurante del Parque de el Pla a las 14:30h.
 
@@ -16,13 +16,17 @@ Todo está en la misma ubicación, actividad y restaurante, pero es gestionado p
 
 ##  ¿Cuándo?
 
-Sábado 15/06/2025 a las 12h
+Domingo 15/06/2025 a las 12h
 
 ### ¿Qué harán?
 
 Se ha elegido la actividad de <a href="https://www.aventuravalencia.es/humor-amarillo-ninos/" target="_blank">Humor Amarillo Acuático</a> donde realizarán varios juegos de agua. Esta actividad se puede realizar a partir de 9 años, por lo que si hay hermanos menores, también se pueden apuntar.
 
 ![Humor Amarillo](/humor-amarillo.jpg)
+
+Podemos completar el grupo hasta 40 personas con la reserva que tenemos. Si hay algún padre que se quiera apuntar allí, es posible hacerlo. 
+
+El grupo de dividirá en dos, si hay 24 niños, se harán dos grupos de 12 niños por las dinámicas de las actividades.
 
 A las 14:30h comeremos en el restaurante del <a href="https://parqueelpla.com/" target="_blank">Parque de el Pla</a> que está en el mismo recinto pero es gestionado por otra empresa. 
 
@@ -48,9 +52,19 @@ La fiesta se celebrará en <a href="https://maps.app.goo.gl/aRfqxqvCuHJ15d41A" t
 
 - Bañador
 - Toalla
-- Licra para el sol (recomendado)
-- Zapatillas o escarpienes de agua
+- Crema solar
+- Licra para el sol (no obligatorio pero recomendado)
+- Chanclas para andar por el recinto (no se pueden llevar escarpines)
 - Agua para beber
+
+### Autorización
+
+Hay que firmar una <a href="/Autorizacion_Menores_Juegos Multiactividad 2025.pdf" target="_blank">autorización</a> para los niños, se puede hacer allí o llevarla ya cumplimentada de casa.
+
+{{< alert >}}
+**Importante** Para los niños que vengan sin sus padres, esta hoja se tiene que traer firmada de casa.
+{{< /alert >}}
+
 
 ### ¿Pueden apuntarse más niños o padres a la actividad elegida?
 
