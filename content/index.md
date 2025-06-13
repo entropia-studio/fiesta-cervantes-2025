@@ -16,7 +16,7 @@ Todo está en la misma ubicación, actividad y restaurante, pero es gestionado p
 
 ##  ¿Cuándo?
 
-Domingo 15/06/2025 a las 12h
+Domingo 15/06/2025 a las 12h (hay que llegar 30 minutos antes)
 
 ### ¿Qué harán?
 
@@ -70,6 +70,6 @@ Hay que firmar una <a href="/Autorizacion_Menores_Juegos Multiactividad 2025.pdf
 
 Sí, siempre que tenga al menos 9 años. Actualmente tenemos una reserva para 27 niños y podemos completar hasta 40, ya sean mayores de 9 años o padres/madres. 
 
-Los menores de 9 años puede realizar actividades en el reciento donde comemos justo al lado (los separa una valla). <a href="https://parqueelpla.com/parque-el-pla/fines-de-semana/#infantilpla" target="_blank">Enlace con las actividades para pequeños</a>. Os recomiendo que si queréis realizar actividades con ellos ese día, reservéis antes por si acaso. 
+Los menores de 9 años puede realizar actividades en el reciento donde comemos justo al lado (los separa una valla). <a href="https://parqueelpla.com/parque-el-pla/fines-de-semana/#infantilpla" target="_blank">Enlace con las actividades para pequeños</a>. Hay que reservar por adelantado con un día o dos, el mismo día nos han confirmado que no se pueden realizar las actividades directamente. 
 
 
