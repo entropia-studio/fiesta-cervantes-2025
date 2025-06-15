@@ -59,10 +59,10 @@ La fiesta se celebrará en <a href="https://maps.app.goo.gl/aRfqxqvCuHJ15d41A" t
 
 ### Autorización
 
-Hay que firmar una <a href="/Autorizacion_Menores_Juegos Multiactividad 2025.pdf" target="_blank">autorización</a> para los niños, se puede hacer allí o llevarla ya cumplimentada de casa.
+Hay que firmar una <a href="/Autorizacion_Menores_Juegos Multiactividad 2025.pdf" target="_blank">autorización</a> para los niños que hagan la actividad de Humor Amarillo, se puede hacer allí o llevarla ya cumplimentada de casa.
 
 {{< alert >}}
-**Importante** Para los niños que vengan sin sus padres, esta hoja se tiene que traer firmada de casa.
+**Importante** Para los niños que vengan sin sus padres a la actividad de Humor Amarillo, esta hoja se tiene que traer firmada de casa.
 {{< /alert >}}
 
 
